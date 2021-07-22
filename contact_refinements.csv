@@ -3,6 +3,10 @@ er_ribo,jrc_hela-2,er masked with ribo,10
 er_ribo,jrc_hela-3,er masked with ribo,10
 er_ribo,jrc_jurkat-1,er masked with ribo,10
 er_ribo,jrc_macrophage-2,er masked with ribo,10
+er-periph_ribo,jrc_hela-2,er-periph reconstructed masked with ribo,10
+er-periph_ribo,jrc_hela-3,er-periph reconstructed masked with ribo,10
+er-periph_ribo,jrc_jurkat-1,er-periph reconstructed masked with ribo,10
+er-periph_ribo,jrc_macrophage-2,er-periph reconstructed masked with ribo,10
 er_golgi,jrc_hela-2,er masked with golgi,10
 er_golgi,jrc_hela-3,er masked with golgi,10
 er_golgi,jrc_jurkat-1,er masked with golgi,10
@@ -11,6 +15,10 @@ er_mito,jrc_hela-2,mito masked with er,10
 er_mito,jrc_hela-3,mito masked with er,10
 er_mito,jrc_jurkat-1,mito masked with er,10
 er_mito,jrc_macrophage-2,mito masked with er,10
+er-periph_mito,jrc_hela-2,mito masked with er reconstructed,10
+er-periph_mito,jrc_hela-3,mito masked with er reconstructed,10
+er-periph_mito,jrc_jurkat-1,mito masked with er reconstructed,10
+er-periph_mito,jrc_macrophage-2,mito masked with er reconstructed,10
 er_endo,jrc_hela-2,,10
 er_endo,jrc_hela-3,,10
 er_endo,jrc_jurkat-1,,10
@@ -39,6 +47,10 @@ er_mt,jrc_hela-2,er masked with mt,20
 er_mt,jrc_hela-3,er masked with mt,20
 er_mt,jrc_jurkat-1,er masked with mt,20
 er_mt,jrc_macrophage-2,er masked with mt,20
+er-periph_mt,jrc_hela-2,er-periph masked with mt,20
+er-periph_mt,jrc_hela-3,er-periph masked with mt,20
+er-periph_mt,jrc_jurkat-1,er-periph masked with mt,20
+er-periph_mt,jrc_macrophage-2,er-periph masked with mt,20
 endo_mt,jrc_hela-2,endo masked with mt,20
 endo_mt,jrc_hela-3,endo masked with mt,20
 endo_mt,jrc_jurkat-1,endo masked with mt,20
