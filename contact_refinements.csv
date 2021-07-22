@@ -23,10 +23,10 @@ er_endo,jrc_hela-2,,10
 er_endo,jrc_hela-3,,10
 er_endo,jrc_jurkat-1,,10
 er_endo,jrc_macrophage-2,,10
-er_pm,jrc_hela-2,er masked with pm,10
-er_pm,jrc_hela-3,er masked with pm,10
-er_pm,jrc_jurkat-1,er masked with pm,10
-er_pm,jrc_macrophage-2,er masked with pm,10
+er_pm,jrc_hela-2,er masked with pm (exclusive),10
+er_pm,jrc_hela-3,er masked with pm (exclusive),10
+er_pm,jrc_jurkat-1,er masked with pm (exclusive),10
+er_pm,jrc_macrophage-2,er masked with pm (exclusive),10
 er_vesicle,jrc_hela-2,,10
 er_vesicle,jrc_hela-3,,10
 er_vesicle,jrc_jurkat-1,,10
